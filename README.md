@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Falah24
+- 👋 Hi, I’m @Falah
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Power bi and looking forward to learning python and SQL
 - 💞️ I’m looking to collaborate on many projects to gain hands on experience
